@@ -1,0 +1,16 @@
+{
+  "input0": [
+    {
+      "key": "outputKey",
+      "value": "outputValue1"
+    },
+    {
+      "key": "outputKey",
+      "value": "outputValue2"
+    },
+    {
+      "key": "outputKey",
+      "value": "outputValue3"
+    }
+  ]
+}

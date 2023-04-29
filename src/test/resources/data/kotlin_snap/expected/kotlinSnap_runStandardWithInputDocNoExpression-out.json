@@ -1,0 +1,9 @@
+{
+  "output0" : [ {
+    "$key" : "$value"
+  }, {
+    "$key" : "$value"
+  }, {
+    "$key" : "$value"
+  } ]
+}

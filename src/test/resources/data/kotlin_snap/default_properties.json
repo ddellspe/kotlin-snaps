@@ -1,0 +1,12 @@
+{
+  "settings": {
+    "propKey":  {
+      "value": "$key",
+      "expression": true
+    },
+    "propValue": {
+      "value": "$value",
+      "expression": true
+    }
+  }
+}
